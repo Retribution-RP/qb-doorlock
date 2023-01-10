@@ -213,7 +213,7 @@ Config.DoorList['bcso-bcso15'] = {
 -- bcso16 created by JJ_Case
 Config.DoorList['bcso-bcso16'] = {
     locked = true,
-    distance = 2,
+    distance = 4,
     objName = 1286535678,
     doorRate = 1.0,
     doorLabel = 'bcso16',
